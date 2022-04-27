@@ -1,7 +1,8 @@
 # Blind50
 This Repo contains all solution for famous blind50 list from leetcode.
-Every problem is sloved using mutiple approches.
+Every problem is solved using mutiple approaches.
 Programming Language : Python
+
 Problem Links:
 1. https://leetcode.com/problems/two-sum/
 2. https://leetcode.com/problems/contains-duplicate/
